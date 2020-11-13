@@ -1,0 +1,128 @@
+ 
+    * ECUACIONES  
+
+
+  * ELEMENTOS
+  =============================================================
+  N    : Tamaño de la Muestra
+  Li   : Límite Inferior
+  Ls   : Límite Superior
+  Xm   : Punto Medio		
+  Vmax : Valor Máximo
+  Vmin : Valor Mínimo
+  At   : Amplitud Total
+  Fi   : Frecuencia Absoluta
+  Fr   : Frecuencia Relativa
+  Fr%  : Frecuencia Relativa Porcentual
+  Fa   : Frecuencia Acumulada
+  Fa%  : Frecuencia Acumulada Porcentual
+  St   : Sturges
+  X    : Media Aritmética
+  Mo   : Moda
+  I    : Datos que recorren la Clase
+  F1   : Frecuencia Absoluta anterior a la línea Modal
+  F2   : Frecuencia Absoluta posterior a la línea Modal
+  Lir  : Límite Real inferior
+  Pi   : Percentil  (i : Número del Percentil)
+  P    : Posición del Percentil
+  Ic   : Intervalo de Confianza
+  S    : Desviación Típica
+  
+  
+ 
+  * PUNTO MEDIO (Xm)
+  =============================================================
+  Xm = ( Li + Ls ) / 2
+ 
+
+  * AMPLITUD TOTAL (At)
+  =============================================================
+  At = Vmax - Vmin
+ 
+
+  * FRECUENCIA RELATIVA (Fr)
+  =============================================================
+  Fr = Fi / N 
+ 
+
+  * FRECUENCIA RELATIVA PORCENTUAL (Fr%)
+  =============================================================
+  Fr% = Fr * 100    -->    ( Fi / N ) * 100 
+ 
+
+  * FRECUENCIA ACUMULADA PORCENTUAL (Fa%)
+  =============================================================
+  Fa% = ( Fa / N ) * 100 
+ 
+
+  * FÓRMULA DE STURGES (St)
+  =============================================================
+                 At
+  St = ______________________  
+       1 + [ 3.322 * log(N) ]
+
+
+
+  * MEDIA ARITMÉTICA (X)
+  =============================================================
+        Sumatoria ( Xm * Fi )
+  X =  ______________________
+                N
+ 
+
+  * DATOS QUE RECORREN LA CLASE (I)
+  =============================================================
+  I = Ls - Li + 1
+
+
+  * MODA (Mo)
+  =============================================================
+               [     F2            ]
+  Mo = Li  +   | _________  *  (I) |      
+               [  F1 + F2          ]
+           
+
+  * LÍMITE REAL INFERIOR (Lir)
+  =============================================================
+           Li + Ls (anterior)   
+  Lir =  _____________________              
+                   2
+ 
+ 
+  * MEDIANA (Me)
+  =============================================================
+               [ ( N/2 ) - Fa (anterior)        ]
+  Me = Lir  +  | _______________________  * (I) |      
+               [          Fi                    ]
+
+
+
+  * POSICIÓN DEL PERCENTIL (P)
+  =============================================================
+  P = ( i * N ) / 100
+
+
+
+  * PERCENTIL (Pi)
+  =============================================================
+               [ P - Fa (anterior)        ]
+  Pi = Lir  +  | _________________  * (I) |      
+               [        Fi                ]
+
+
+  * DESVIACIÓN TÍPICA (S)
+  =============================================================
+               __________________________________
+       _      /                             2  
+  S =   \    /  Sumatoria [  Fi * ( Xm - X )   ] 
+         \  /  __________________________________
+          \/                  N
+ 
+
+  * INTERVALO DE CONFIANZA (Ic)
+  =============================================================
+  Ic = [ X - S ; X + S ]
+
+
+
+
