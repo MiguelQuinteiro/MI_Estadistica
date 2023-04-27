@@ -1,58 +1,8 @@
-Línea 615: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel8 no era una clase de control cargada.
-Línea 623: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel9 no era una clase de control cargada.
-Línea 631: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel10 no era una clase de control cargada.
-Línea 639: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel11 no era una clase de control cargada.
-Línea 647: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel12 no era una clase de control cargada.
-Línea 655: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel13 no era una clase de control cargada.
-Línea 663: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel14 no era una clase de control cargada.
-Línea 671: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel15 no era una clase de control cargada.
-Línea 679: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel16 no era una clase de control cargada.
-Línea 687: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel22 no era una clase de control cargada.
-Línea 823: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel5 no era una clase de control cargada.
-Línea 831: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel6 no era una clase de control cargada.
-Línea 839: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel7 no era una clase de control cargada.
-Línea 847: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel17 no era una clase de control cargada.
-Línea 855: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel18 no era una clase de control cargada.
-Línea 863: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel19 no era una clase de control cargada.
-Línea 871: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel20 no era una clase de control cargada.
-Línea 879: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel21 no era una clase de control cargada.
-Línea 887: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel23 no era una clase de control cargada.
-Línea 895: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel24 no era una clase de control cargada.
-Línea 903: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel25 no era una clase de control cargada.
-Línea 911: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel26 no era una clase de control cargada.
-Línea 919: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel27 no era una clase de control cargada.
-Línea 927: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel28 no era una clase de control cargada.
-Línea 1083: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel1 no era una clase de control cargada.
-Línea 1091: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel2 no era una clase de control cargada.
-Línea 1099: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel3 no era una clase de control cargada.
-Línea 1107: la clase ACTIVESKINLibCtl.SkinLabel del control SkinLabel4 no era una clase de control cargada.
-Línea 1116: la clase ACTIVESKINLibCtl.Skin del control Skin1 no era una clase de control cargada.
-Línea 618: el nombre de la propiedad OleObjectBlob de SkinLabel8 no es válido.
-Línea 626: el nombre de la propiedad OleObjectBlob de SkinLabel9 no es válido.
-Línea 634: el nombre de la propiedad OleObjectBlob de SkinLabel10 no es válido.
-Línea 642: el nombre de la propiedad OleObjectBlob de SkinLabel11 no es válido.
-Línea 650: el nombre de la propiedad OleObjectBlob de SkinLabel12 no es válido.
-Línea 658: el nombre de la propiedad OleObjectBlob de SkinLabel13 no es válido.
-Línea 666: el nombre de la propiedad OleObjectBlob de SkinLabel14 no es válido.
-Línea 674: el nombre de la propiedad OleObjectBlob de SkinLabel15 no es válido.
-Línea 682: el nombre de la propiedad OleObjectBlob de SkinLabel16 no es válido.
-Línea 690: el nombre de la propiedad OleObjectBlob de SkinLabel22 no es válido.
-Línea 826: el nombre de la propiedad OleObjectBlob de SkinLabel5 no es válido.
-Línea 834: el nombre de la propiedad OleObjectBlob de SkinLabel6 no es válido.
-Línea 842: el nombre de la propiedad OleObjectBlob de SkinLabel7 no es válido.
-Línea 850: el nombre de la propiedad OleObjectBlob de SkinLabel17 no es válido.
-Línea 858: el nombre de la propiedad OleObjectBlob de SkinLabel18 no es válido.
-Línea 866: el nombre de la propiedad OleObjectBlob de SkinLabel19 no es válido.
-Línea 874: el nombre de la propiedad OleObjectBlob de SkinLabel20 no es válido.
-Línea 882: el nombre de la propiedad OleObjectBlob de SkinLabel21 no es válido.
-Línea 890: el nombre de la propiedad OleObjectBlob de SkinLabel23 no es válido.
-Línea 898: el nombre de la propiedad OleObjectBlob de SkinLabel24 no es válido.
-Línea 906: el nombre de la propiedad OleObjectBlob de SkinLabel25 no es válido.
-Línea 914: el nombre de la propiedad OleObjectBlob de SkinLabel26 no es válido.
-Línea 922: el nombre de la propiedad OleObjectBlob de SkinLabel27 no es válido.
-Línea 930: el nombre de la propiedad OleObjectBlob de SkinLabel28 no es válido.
-Línea 1086: el nombre de la propiedad OleObjectBlob de SkinLabel1 no es válido.
-Línea 1094: el nombre de la propiedad OleObjectBlob de SkinLabel2 no es válido.
-Línea 1102: el nombre de la propiedad OleObjectBlob de SkinLabel3 no es válido.
-Línea 1110: el nombre de la propiedad OleObjectBlob de SkinLabel4 no es válido.
-Línea 1118: el nombre de la propiedad OleObjectBlob de Skin1 no es válido.
+Línea 413: la clase MSComctlLib.Slider del control Slider1 no era una clase de control cargada.
+Línea 419: el nombre de la propiedad _ExtentX de Slider1 no es válido.
+Línea 420: el nombre de la propiedad _ExtentY de Slider1 no es válido.
+Línea 421: el nombre de la propiedad _Version de Slider1 no es válido.
+Línea 423: el nombre de la propiedad Min de Slider1 no es válido.
+Línea 424: el nombre de la propiedad Max de Slider1 no es válido.
+Línea 425: el nombre de la propiedad SelStart de Slider1 no es válido.
+Línea 426: el nombre de la propiedad Value de Slider1 no es válido.
