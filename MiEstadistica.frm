@@ -1,5 +1,4 @@
 VERSION 5.00
-Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
 Object = "{90F3D7B3-92E7-44BA-B444-6A8E2A3BC375}#1.0#0"; "actskin4.ocx"
 Begin VB.Form MiEstadistica 
    BackColor       =   &H00FFFFFF&
@@ -410,20 +409,15 @@ Begin VB.Form MiEstadistica
          Top             =   1200
          Width           =   1215
       End
-      Begin MSComctlLib.Slider Slider1 
+      Begin VB.PictureBox Slider1 
+         Enabled         =   0   'False
          Height          =   555
          Left            =   240
+         ScaleHeight     =   495
+         ScaleWidth      =   12795
          TabIndex        =   19
          Top             =   1920
          Width           =   12855
-         _ExtentX        =   22675
-         _ExtentY        =   979
-         _Version        =   393216
-         Enabled         =   0   'False
-         Min             =   1
-         Max             =   99
-         SelStart        =   1
-         Value           =   1
       End
    End
    Begin VB.Frame Frame3 
